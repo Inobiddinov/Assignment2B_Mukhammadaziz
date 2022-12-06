@@ -2,7 +2,7 @@ package project;
 
 import java.util.Scanner;
 
-public class Edric{
+public class Mukhammadaziz_Assignment2B{
     public static void main (String []args) {
         Project1 a = new Project1() ;
         a.displayMenu();
